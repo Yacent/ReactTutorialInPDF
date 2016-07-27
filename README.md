@@ -21,6 +21,13 @@ change it to the local pdf and I can read or learn everywhere.
 
 + http://cuiqingcai.com/1052.html (转载自 静觅: Python爬虫学习系列教程) Before you start this project, Please confirm that you have the basic knowleage of Internet worm.
 
+## Solution Step
+
+1. Fetch the tutorial page of React
+2. get the nav-side ul list into an array
+3. send request according to the array, fetch the page and write into a page
+4. convert the page.html with weasyprint into PDF
+
 ## Dependencies
 
 + Requests
