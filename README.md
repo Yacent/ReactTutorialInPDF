@@ -11,7 +11,7 @@ change it to the local pdf and I can read or learn everywhere.
 
 ### Platforms
 
-+ Ubuntu(better), Debian, Mac OS
++ Ubuntu(better)
 
 ### Python version
 
